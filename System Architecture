@@ -37,4 +37,10 @@ Refillly is a web and mobile platform connecting users with gas refill vendors. 
 5. User receives real-time updates on refill status and delivery time.
 
  
+## Feasibility
+- Scalable backend to handle multiple users and vendors.
+- Secure API endpoints for user and payment data.
+- Integration with Google Maps for vendor locations ensures timely delivery.
+- Mobile-first design for ease of scheduling and tracking refills.
+
 
